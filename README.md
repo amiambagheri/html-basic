@@ -1,3 +1,3 @@
 # html exersice
 
-my first exersice for learn html
+My first exercise in learning html
